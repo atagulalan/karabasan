@@ -17,6 +17,8 @@ Açıklama
 ----
 Programın ve konuşmaların gerçek yazarı CYBER06 ile hiçbir bağım yok. Dizgilerde herhangi bir değişiklik yapmadığım için ağır küfürler / toplum tarafından kabul görmeyen konuşmalara rastlanabilir. Bunların benimle veya benim görüşümle hiçbir alakası yoktur.
 
+Güncelleme: Gerçekten son zamanlarda iyice aklıma takılmaya başladı. Bu programın orijinalinin içerisinde gerçekten çok iğrenç şeyler var. Bu yüzden exe'yi sildim ve gerçekten mide bulandırıcı o fıkrayı, bu versionda kaldırdım. Çok istiyorsanız bu saçmalığı derleyin, öyle çalıştırın.
+
 Lisans
 ----
 Bir arkadaşın sinirlenmesi üzerine güncelledim. Artık MIT Lisansı var.
